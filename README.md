@@ -1,3 +1,9 @@
+Hello!
+This is an updated version of the DeadName Remover that I created from all dependabot pull requests. I'm working on it in an effort to make it EdLaw2D compliant and bring it to my school.
+The author's version reads below...
+
+
+
 # Dead-Name-Remover
 An easy to use browser plugin to automatically replace dead names with preferred names
 
